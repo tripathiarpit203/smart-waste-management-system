@@ -10,9 +10,9 @@ This project demonstrates waste detection using a YOLOv8 object detection model.
 #### Kaggle Notebook: https://www.kaggle.com/code/tripathiarpit203/smart-waste-management-system/
 
 ## Classifying Waste Items
-RECYCLABLE=['can','plastic_bottle_cap','plastic_bottle']
-NON_RECYCLABLE= ['plastic_bag','plastic_cup','snack_bag','plastic_box','straw','plastic_cup_lid','scrap_plastic','plastic_cultery']
-METTALIC=['nuts','bolts','tool_parts','aluminium_material','light_bulb_part']
+##### RECYCLABLE=['can','plastic_bottle_cap','plastic_bottle']
+##### NON_RECYCLABLE= ['plastic_bag','plastic_cup','snack_bag','plastic_box','straw','plastic_cup_lid','scrap_plastic','plastic_cultery']
+##### METTALIC=['nuts','bolts','tool_parts','aluminium_material','light_bulb_part']
 
 # What Is Smart Waste Management?
 Smart waste management refers to any system that uses technology to make trash collection more efficient, cost-effective and environmentally friendly. Most of these systems are equipped with the Internet of Things (IoT), a monitoring technology that collects and tracks real-time data, to help optimize waste collection and spur future innovation.
