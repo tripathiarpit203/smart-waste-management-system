@@ -9,6 +9,12 @@ This project demonstrates waste detection using a YOLOv8 object detection model.
 #### Training Dataset: https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/model/3
 #### Kaggle Notebook: https://www.kaggle.com/code/tripathiarpit203/smart-waste-management-system/
 
+## Project Structure
+##### main.py: Main application file containing Streamlit code.
+##### helper.py: Helper functions for waste detection using the YOLO model.
+##### settings.py: Configuration settings, including the path to the model and waste types.
+##### train.py: To train the model
+
 ## Classifying Waste Items
 ##### RECYCLABLE=['can','plastic_bottle_cap','plastic_bottle']
 ##### NON_RECYCLABLE= ['plastic_bag','plastic_cup','snack_bag','plastic_box','straw','plastic_cup_lid','scrap_plastic','plastic_cultery']
