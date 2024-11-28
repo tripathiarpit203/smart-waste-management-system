@@ -4,7 +4,7 @@ TEAM members:  Arpit Tripathi, Devika, Divyansh kumar, Vivek Yadav
 Intelligent waste segregation system
 This project demonstrates waste detection using a YOLOv8 object detection model. It identifies recyclable, non-recyclable, and hazardous waste items.
 
-resources used - 
+## resources used - 
 Article References: https://www.bigrentz.com/blog/smart-waste-management
 Training Dataset: https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/model/3
 
