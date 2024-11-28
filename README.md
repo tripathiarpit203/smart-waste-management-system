@@ -7,6 +7,7 @@ This project demonstrates waste detection using a YOLOv8 object detection model.
 ## resources used - 
 #### Article References: https://www.bigrentz.com/blog/smart-waste-management
 #### Training Dataset: https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/model/3
+#### Kaggle Notebook: https://www.kaggle.com/code/tripathiarpit203/smart-waste-management-system/
 
 
 
