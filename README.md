@@ -7,7 +7,7 @@ This project demonstrates waste detection using a YOLOv8 ( You Only Look Once )o
 ## resources used - 
 #### Article References: https://www.bigrentz.com/blog/smart-waste-management
 #### Training Dataset: https://universe.roboflow.com/ai-project-i3wje/waste-detection-vqkjo/model/3
-#### Kaggle Notebook: https://www.kaggle.com/code/tripathiarpit203/smart-waste-management-system/
+#### Kaggle Notebook: [https://www.kaggle.com/code/tripathiarpit203/smart-waste-management-system/](https://www.kaggle.com/code/tripathiarpit203/plastic-metal-segregation-ml-model-v7)
 
 ## Project Structure
 ##### main.py: Main application file containing Streamlit code.
